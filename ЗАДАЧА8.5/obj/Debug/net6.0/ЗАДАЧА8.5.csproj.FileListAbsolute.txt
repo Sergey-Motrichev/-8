@@ -1,0 +1,15 @@
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\bin\Debug\net6.0\ЗАДАЧА8.5.exe
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\bin\Debug\net6.0\ЗАДАЧА8.5.deps.json
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\bin\Debug\net6.0\ЗАДАЧА8.5.runtimeconfig.json
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\bin\Debug\net6.0\ЗАДАЧА8.5.dll
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\bin\Debug\net6.0\ЗАДАЧА8.5.pdb
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.csproj.AssemblyReference.cache
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.AssemblyInfoInputs.cache
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.AssemblyInfo.cs
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.dll
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\refint\ЗАДАЧА8.5.dll
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.pdb
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ЗАДАЧА8.5.genruntimeconfig.cache
+C:\Users\сергей\Desktop\СЕМИНАР8 С#\ЗАДАЧА8.5\obj\Debug\net6.0\ref\ЗАДАЧА8.5.dll
